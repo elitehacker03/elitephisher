@@ -1,0 +1,8 @@
+Package: elitephisher
+Version: 1.0
+Installed-Size: 9400
+Architecture: all
+Maintainer: @elitehacker03
+Depends: php, wget, git, curl, resolv-conf, proot
+Homepage: https://github.com/elitehacker03/elitephisher
+Description: An automated phishing tool with 30+ templates. This Tool is made for educational purpose only !
